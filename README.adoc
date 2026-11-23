@@ -1,0 +1,17 @@
+= mn-samples-wmo
+
+Sample corpus for the WMO flavor — seed corpus: the WMO S-411 Product Specification, **2014 edition**.
+
+== Corpus ruling
+
+The samples corpus uses the S-411 **2014 edition** (the previous edition). Current-edition work proceeds separately for flavor development.
+
+== Active tasks
+
+- Transcription: issue #1 (assigned: anermina) — every section transcribed, no silent drops.
+- Taste XSLT: metanorma-taste#273
+- WMO alpha (metanorma 1.19): metanorma-taste#286
+
+== Rendering
+
+Rides the wmo taste (metanorma-taste, IHO base). The parity baseline recorded here feeds the metanorma#691 harness.
